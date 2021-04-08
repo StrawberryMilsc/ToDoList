@@ -1,0 +1,124 @@
+[
+   {
+      "due-date": {
+         "month": 1,
+         "hour": 23,
+         "year": 2019,
+         "day": 16,
+         "minute": 59
+      },
+      "description": "Register for the course. ",
+      "priority": {
+         "Urgent": false,
+         "Important": false
+      },
+      "tags": [],
+      "status": "IN_PROGRESS"
+   },
+   {
+      "due-date": {
+         "month": 3,
+         "hour": 14,
+         "year": 2019,
+         "day": 4,
+         "minute": 50
+      },
+      "description": "Download the syllabus. ",
+      "priority": {
+         "Urgent": false,
+         "Important": false
+      },
+      "tags": [],
+      "status": "UP_NEXT"
+   },
+   {
+      "due-date": {
+         "month": 3,
+         "hour": 14,
+         "year": 2019,
+         "day": 4,
+         "minute": 50
+      },
+      "description": "Read the syllabus! ",
+      "priority": {
+         "Urgent": false,
+         "Important": false
+      },
+      "tags": [],
+      "status": "TODO"
+   },
+   {
+      "due-date": {
+         "month": 1,
+         "hour": 23,
+         "year": 2019,
+         "day": 17,
+         "minute": 59
+      },
+      "description": "Make note of assignments deadlines. ",
+      "priority": {
+         "Urgent": false,
+         "Important": false
+      },
+      "tags": [],
+      "status": "TODO"
+   },
+   {
+      "due-date": {
+         "month": 1,
+         "hour": 17,
+         "year": 2019,
+         "day": 22,
+         "minute": 10
+      },
+      "description": "Make note of quizzes and midterm dates. ",
+      "priority": {
+         "Urgent": false,
+         "Important": false
+      },
+      "tags": [],
+      "status": "TODO"
+   },
+   {
+      "due-date": {
+         "month": 1,
+         "hour": 17,
+         "year": 2019,
+         "day": 20,
+         "minute": 10
+      },
+      "description": "Update my calendar with those dates. ",
+      "priority": {
+         "Urgent": false,
+         "Important": false
+      },
+      "tags": [],
+      "status": "TODO"
+   },
+   {
+      "due-date": {
+         "month": 3,
+         "hour": 14,
+         "year": 2019,
+         "day": 4,
+         "minute": 50
+      },
+      "description": "Test1 ",
+      "priority": {
+         "Urgent": false,
+         "Important": false
+      },
+      "tags": [],
+      "status": "TODO"
+   },
+   {
+      "due-date": {"due-date": null},
+      "description": "Test2 ",
+      "priority": {
+         "Urgent": false,
+         "Important": false
+      },
+      "tags": [{"name": "TAG2"}],
+      "status": "TODO"
+   }
+]
